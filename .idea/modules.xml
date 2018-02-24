@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-beatlsql/springboot-beatlsql.iml" filepath="$PROJECT_DIR$/springboot-beatlsql/springboot-beatlsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-cacahe-data-with-spring/springboot-cacahe-data-with-spring.iml" filepath="$PROJECT_DIR$/springboot-cacahe-data-with-spring/springboot-cacahe-data-with-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elk/springboot-elk.iml" filepath="$PROJECT_DIR$/springboot-elk/springboot-elk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jdbc/springboot-jdbc.iml" filepath="$PROJECT_DIR$/springboot-jdbc/springboot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jms/springboot-jms.iml" filepath="$PROJECT_DIR$/springboot-jms/springboot-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jpa/springboot-jpa.iml" filepath="$PROJECT_DIR$/springboot-jpa/springboot-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" filepath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-tx/springboot-mybatis-tx.iml" filepath="$PROJECT_DIR$/springboot-mybatis-tx/springboot-mybatis-tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis-message/springboot-redis-message.iml" filepath="$PROJECT_DIR$/springboot-redis-message/springboot-redis-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-restdocs/springboot-restdocs.iml" filepath="$PROJECT_DIR$/springboot-restdocs/springboot-restdocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-resttemplate/springboot-resttemplate.iml" filepath="$PROJECT_DIR$/springboot-resttemplate/springboot-resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-scheduling-tasks/springboot-scheduling-tasks.iml" filepath="$PROJECT_DIR$/springboot-scheduling-tasks/springboot-scheduling-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" filepath="$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-upload-file/springboot-upload-file.iml" filepath="$PROJECT_DIR$/springboot-upload-file/springboot-upload-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-validate-form/springboot-validate-form.iml" filepath="$PROJECT_DIR$/springboot-validate-form/springboot-validate-form.iml" />
+    </modules>
+  </component>
+</project>

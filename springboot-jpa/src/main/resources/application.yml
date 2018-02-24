@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dbcv6?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+    username: dbcv6
+    password: dbcv6
+
+  jpa:
+    hibernate:
+      ddl-auto: create  # 第一次简表create  后面用update
+    show-sql: true

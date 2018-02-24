@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot" />
+        <module name="springboot-beatlsql" />
+        <module name="springboot-cacahe-data-with-spring" />
+        <module name="springboot-elk" />
+        <module name="springboot-jdbc" />
+        <module name="springboot-jms" />
+        <module name="springboot-jpa" />
+        <module name="springboot-mongodb" />
+        <module name="springboot-mybatis" />
+        <module name="springboot-mybatis-tx" />
+        <module name="springboot-redis-message" />
+        <module name="springboot-restdocs" />
+        <module name="springboot-resttemplate" />
+        <module name="springboot-scheduling-tasks" />
+        <module name="springboot-swagger" />
+        <module name="springboot-upload-file" />
+        <module name="springboot-validate-form" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot" target="1.5" />
+      <module name="springboot-beatlsql" target="1.8" />
+      <module name="springboot-cacahe-data-with-spring" target="1.8" />
+      <module name="springboot-elk" target="1.8" />
+      <module name="springboot-jdbc" target="1.8" />
+      <module name="springboot-jms" target="1.8" />
+      <module name="springboot-jpa" target="1.8" />
+      <module name="springboot-mongodb" target="1.8" />
+      <module name="springboot-mybatis" target="1.8" />
+      <module name="springboot-mybatis-tx" target="1.8" />
+      <module name="springboot-redis-message" target="1.8" />
+      <module name="springboot-restdocs" target="1.8" />
+      <module name="springboot-resttemplate" target="1.8" />
+      <module name="springboot-scheduling-tasks" target="1.8" />
+      <module name="springboot-swagger" target="1.8" />
+      <module name="springboot-upload-file" target="1.8" />
+      <module name="springboot-validate-form" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springboot-beatlsql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-cacahe-data-with-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-elk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis-tx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-restdocs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-resttemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-scheduling-tasks" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-upload-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-validate-form" charset="UTF-8" />
+  </component>
+</project>
